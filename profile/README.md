@@ -15,4 +15,6 @@
 
 ## Our Team
 
-* **Huseyn Haciyev** - *Student in ADA University* — *Owner*
+* **Huseyn Haciyev** - *Lead Backend Developer*, *Student in ADA University* — *Owner*
+* **Azer Sadykhzadeh** - *Lead Frontend Developer* , *Student in Baku Higher Oil School*
+* **Roman Tolstosheyev** *Backend Developer*, *CyberSecurity engineer*, *Student in Baku Higher Oil School*
